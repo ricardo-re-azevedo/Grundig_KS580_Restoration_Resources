@@ -1,5 +1,6 @@
+# Info
 The Grundig KS580 is a 10 speaker audio cabinet built in the early 1960s available with multiple accessories. [More info](https://www.example.com). Here I compile a list of references and build info chronicling my restoration of one of these cabinets and its associated electronics. This particular example has:
----
+
 - Grundig NF-10 (stereo tube amp)
 - Grundig HF-10 (AM FM radio)
 - Grundig TM-45 (4-track player/recorder)
